@@ -2,9 +2,10 @@ module github.com/jing-zhou/igniter-go-libs
 
 go 1.23
 
+require github.com/jing-zhou/go-tun2socks v1.16.101
+require github.com/jing-zhou/clash v1.0.100
+
 require (
-	github.com/jing-zhou/clash v1.0.100
-	github.com/jing-zhou/go-tun2socks v1.16.101
 	github.com/sirupsen/logrus v1.9.3
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8
 )

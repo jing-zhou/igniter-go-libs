@@ -8,11 +8,11 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/Dreamacro/clash/config"
-	C "github.com/Dreamacro/clash/constant"
-	_ "github.com/Dreamacro/clash/hub"
-	"github.com/Dreamacro/clash/hub/executor"
-	"github.com/Dreamacro/clash/tunnel/statistic"
+	"github.com/jing-zhou/clash/config"
+	C "github.com/jing-zhou/clash/constant"
+	_ "github.com/jing-zhou/clash/hub"
+	"github.com/jing-zhou/clash/hub/executor"
+	"github.com/jing-zhou/clash/tunnel/statistic"
 
 	log "github.com/sirupsen/logrus"
 )

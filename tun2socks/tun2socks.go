@@ -8,14 +8,14 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eycorsican/go-tun2socks/common/dns/cache"
-	"github.com/eycorsican/go-tun2socks/common/dns/fakedns"
-	"github.com/eycorsican/go-tun2socks/common/log"
-	"github.com/eycorsican/go-tun2socks/common/log/simpleandroidlog" // Register a simple android logger.
-	"github.com/eycorsican/go-tun2socks/component/pool"
-	"github.com/eycorsican/go-tun2socks/component/runner"
-	"github.com/eycorsican/go-tun2socks/core"
-	"github.com/eycorsican/go-tun2socks/proxy/socks"
+	"github.com/jing-zhou/go-tun2socks/common/dns/cache"
+	"github.com/jing-zhou/go-tun2socks/common/dns/fakedns"
+	"github.com/jing-zhou/go-tun2socks/common/log"
+	"github.com/jing-zhou/go-tun2socks/common/log/simpleandroidlog" // Register a simple android logger.
+	"github.com/jing-zhou/go-tun2socks/component/pool"
+	"github.com/jing-zhou/go-tun2socks/component/runner"
+	"github.com/jing-zhou/go-tun2socks/core"
+	"github.com/jing-zhou/go-tun2socks/proxy/socks"
 
 	"github.com/songgao/water"
 )
