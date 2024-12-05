@@ -1,9 +1,9 @@
 BUILDDIR=$(shell pwd)/build
 IMPORT_PATH= \
-	github.com/trojan-gfw/igniter-go-libs/clash \
-	github.com/trojan-gfw/igniter-go-libs/tun2socks \
-	github.com/trojan-gfw/igniter-go-libs/freeport \
-	github.com/trojan-gfw/igniter-go-libs/util
+	github.com/jing-zhou/igniter-go-libs/clash \
+	github.com/jing-zhou/igniter-go-libs/tun2socks \
+	github.com/jing-zhou/igniter-go-libs/freeport \
+	github.com/jing-zhou/igniter-go-libs/util
 
 all: ios android
 
