@@ -59,6 +59,8 @@ github.com/insomniacslk/dhcp v0.0.0-20240829085014-a3a4c1f04475/go.mod h1:KclMyH
 github.com/jing-zhou/clash v1.0.100/go.mod h1:xrrnM86C842mmhpZm1LfR3gJFm9lAAN1+aQiqRznUOI=
 github.com/jing-zhou/clash v1.17.100 h1:8i5sNHE/xcdifMUSfivKwJTkk3M7rHMPoYfd7IPeJ9Q=
 github.com/jing-zhou/clash v1.17.100/go.mod h1:zQIR7UGmzx1oQeCOFis1o9NtHIpDLLZCE3ItTBa4I2w=
+github.com/jing-zhou/clash v1.17.101 h1:MPAVdimyXBkm/nuBFBpRYzdsZFDQGlIWZP25ZhSFF3o=
+github.com/jing-zhou/clash v1.17.101/go.mod h1:zQIR7UGmzx1oQeCOFis1o9NtHIpDLLZCE3ItTBa4I2w=
 github.com/jing-zhou/go-tun2socks v1.16.101/go.mod h1:9lRqtt9r41XdNsugI6AKLRAPtNB8LiN6GDP7D4uDRZg=
 github.com/jing-zhou/go-tun2socks v1.16.102 h1:jXFRer8Q5zChcK4wwNvYveHJ187eyC6UEE+dgn3GwUs=
 github.com/jing-zhou/go-tun2socks v1.16.102/go.mod h1:BHqgJWrMVLIhQtVdVqSynEZaX4PIWDIVYzLD3xUO+lE=

@@ -4,7 +4,7 @@ go 1.23
 
 require github.com/jing-zhou/go-tun2socks v1.16.102
 
-require github.com/jing-zhou/clash v1.17.100
+require github.com/jing-zhou/clash v1.17.101
 
 require (
 	github.com/sirupsen/logrus v1.9.3
